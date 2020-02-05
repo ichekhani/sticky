@@ -1,0 +1,12 @@
+.nav-li {display:inline-block;}
+.header-wrap {position:fixed;width:100%; background-color:green; z-index:9999; height:50px;}
+.relative {position:relative; background-color:red; width:700px; height:700px;  }
+.absolute-box {position:absolute; top:50px;left:50px; background-color:yellow; width:150px; height:150px;}
+.absolute-box2 {position: absolute; top:50px; right:50px; background-color:yellow; width:150px; height:150px;}
+.absolute-box3 {position: absolute; bottom:50px; right:300px; background-color:yellow; width:150px; height:150px;}
+.section-box img {width:400px;}
+.sec-box {position: absolute; top:50px; left:50px; color:red;}
+.section-box {position:relative;}
+body {background-color:aqua; }
+.test{padding-top: 50px; display:inline-block; vertical-align: top;}
+.test2 {display:inline-block; vertical-align: top;}
